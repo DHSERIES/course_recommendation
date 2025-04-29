@@ -1,0 +1,7 @@
+# Ignore environment files
+.env
+
+# (you can add more ignored files/folders below)
+__pycache__/
+*.pyc
+database/
